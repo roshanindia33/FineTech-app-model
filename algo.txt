@@ -1,0 +1,15 @@
+Process :
+
+Data Visualization
+Data Preprocessing
+Feature Scaling
+
+Algorithms :
+
+Decision Tree
+K-NN
+Naive Bayes
+Random Forest Classifier
+Logistic Regression
+Support Vector Machine (support vector classifier)
+XGBoost
